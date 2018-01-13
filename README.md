@@ -1,4 +1,4 @@
-# habitat-sh
+# habitat-www
 
 A new static website for Habitat! Based on [Hugo](https://gohugo.io), the Go-powered static site generator.
 
