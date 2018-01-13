@@ -1,0 +1,11 @@
+hab pkg install cnunciato/hugo
+hab pkg binlink cnunciato/hugo
+
+hab pkg install cnunciato/node-sass
+hab pkg binlink cnunciato/node-sass
+
+hab pkg install core/git
+hab pkg binlink core/git
+
+hab pkg install core/curl
+hab pkg binlink core/curl
